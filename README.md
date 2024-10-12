@@ -25,5 +25,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/band-name-generator.git
+   git clone https://github.com/basantadharala/band-generator.git
 
